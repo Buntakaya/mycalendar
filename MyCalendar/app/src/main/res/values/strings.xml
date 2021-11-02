@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Calendar</string>
+    <string name="contentDescription">Have a plan</string>
+    <string name="ButtonMonth">&lt; YYYY/MM</string>
+    <string name="ButtonDate">&lt; YYYY/MM/DD</string>
+    <string name="ButtonRegistration">REGISTRATION</string>
+    <string name="ButtonUpdate">UPDATE</string>
+    <string name="ButtonDelete">DELETE</string>
+    <string name="ButtonPrev">Prev</string>
+    <string name="ButtonNext">Next</string>
+    <string name="TextViewTitle">TITLE：</string>
+    <string name="HintTitle">TITLE</string>
+    <string name="TextViewDetail">DETAIL：</string>
+    <string name="HintDetail">DETAIL</string>
+    <string name="ViewDateFormat">YYYY/MM/DD</string>
+    <string name="ViewTimeFormat">MM:SS</string>
+    <string name="ViewMonth">2021.10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
